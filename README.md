@@ -1,7 +1,7 @@
-# Minecraft-CLI
+# Minecraft-CLI (Portable version)
 ## How To Use
-open cmd (you may press WIN + R and enter cmd), enter command minecraft. and it defaultly give to you a list of commands like run
+Open the cmd in desktop (or another path where you putted the launcher) and enter minecraft
 ## How To Update
-to update the launcher you must press WIN + R and enter: del /f /im "C:\Program Files\mccli" (if not work try open cmd with admin perms and again enter the command), and download the installer (Your data will be saved like versions).
+to update the launcher you must delete old version and install new
 ## How To Download
-go to releases and download last release, and select MinecraftCLI-Installer.exe, wait for downloading and open the installer. it install the app
+go to releases and download last release, and select MinecraftCLI-portable.exe, wait for downloading and you may open it 
